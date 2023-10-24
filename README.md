@@ -4,8 +4,6 @@ Passionate about harnessing the power of technology to drive positive change, I 
 
 ## Education
 
-My academic journey has led me to pursue a Master's degree in Electrical Engineering at South Dakota State University (SDSU). Anticipated to graduate in December 2023, my focus lies in Image Processing, Remote Sensing, Geospatial, GIS, Medical Imaging, Phenology, and Data Analysis. Through rigorous coursework and hands-on experiences, I have cultivated a robust skill set in advanced image processing, remote sensing engineering, optical sensors, and digital image processing.
-
 My academic journey has led me to pursue a Master's degree in Electrical Engineering at South Dakota State University (SDSU) with an anticipated graduation date in December 2023. My academic focus encompasses a diverse range of fields, including Image Processing, Remote Sensing, Geospatial Analysis, GIS (Geographic Information Systems), Medical Imaging, Phenology, and Data Analysis. Through my time at SDSU, I have engaged in rigorous coursework and valuable hands-on experiences, which have allowed me to develop a comprehensive skill set in advanced image processing, remote sensing engineering, optical sensors, and digital image processing.
 
 ## Skills
